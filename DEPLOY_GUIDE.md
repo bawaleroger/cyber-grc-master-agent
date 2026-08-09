@@ -1,2 +1,0 @@
-# Deploy Guide
-Voir ZIP
