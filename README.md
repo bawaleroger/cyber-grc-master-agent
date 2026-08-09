@@ -1,0 +1,3 @@
+# V8 OPENROUTER ONLY
+OPENROUTER_API_KEY=sk-or-v1-...
+Model: meta-llama/llama-4-maverick:free
