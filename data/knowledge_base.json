@@ -1,0 +1,17 @@
+{
+  "documents": [],
+  "classifications": {
+    "TDR": [],
+    "DAO": [],
+    "OFFRE_TECHNIQUE": [],
+    "OFFRE_FINANCIERE": [],
+    "RAPPORT_AUDIT": [],
+    "PSSI": [],
+    "COURS": [],
+    "POLITIQUE": [],
+    "REGISTRE_RISQUES": [],
+    "AUTRE": []
+  },
+  "apis": [],
+  "missions": []
+}
